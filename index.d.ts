@@ -14,4 +14,6 @@ declare function isEmpty(value: any): boolean;
  */
 declare function firstTest(name: string): string;
 
-export { isEmpty, firstTest };
+declare function ObjectIsEqual(obj1: object, obj2: object): boolean;
+
+export { isEmpty, firstTest, ObjectIsEqual };
