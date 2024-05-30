@@ -1,0 +1,15 @@
+{
+  "name": "ab-toolkit",
+  "version": "1.0.1",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "packge"
+  ],
+  "author": "jiangAB",
+  "license": "ISC"
+}
